@@ -8,8 +8,14 @@ class List extends Component {
 
     this.state = {
       items: [
-                {
-          value: "This is frustrating",
+        {
+          value: "Jose Canseco is weird"
+        },       
+        {
+          value: "Let's find big foot",
+        },
+        {
+          value: "Please make this end"
         },
       ],
     };
